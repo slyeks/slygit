@@ -1,0 +1,2 @@
+# slygit
+copysth
